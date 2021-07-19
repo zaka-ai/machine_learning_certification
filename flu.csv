@@ -1,0 +1,9 @@
+Chills,runny nose,head ache,fever,Flu
+Y,N,Mild,Y,N
+Y,Y,No,N,Y
+Y,N,Strong,Y,Y
+N,Y,Mild,Y,Y
+N,N,No,N,N
+N,Y,Strong,Y,Y
+N,Y,Strong,N,N
+Y,Y,Mild,Y,Y
